@@ -3,7 +3,7 @@
 // 数据认证
 define('DB_HOST','127.0.0.1');
 define('DB_USER','root');
-define('DB_PASS','xxx');
+define('DB_PASS','aAabcdefg123');
 define('DB_NAME','tms');
 // 数据库连接
 try

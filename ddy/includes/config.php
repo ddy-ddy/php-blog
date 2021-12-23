@@ -2,7 +2,7 @@
 // 数据库设置
 define('DB_HOST', '127.0.0.1');
 define('DB_USER', 'root');
-define('DB_PASS', 'xxxx');
+define('DB_PASS', 'aAabcdefg123');
 define('DB_NAME', 'tms');
 // 建立数据库联系
 

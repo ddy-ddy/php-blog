@@ -81,9 +81,9 @@ if (isset($_POST['submit'])) {
 	</head>
 	<body>
 	<div class = "page-container">
-		<!--1.设置左边框-->
+		<!--1.设置侧边栏-->
         <?php include('includes/sidebarmenu.php'); ?>
-		<!--2.设置右边框-->
+		<!--2.设置页面内容-->
 		<div class = "left-content">
 			<!--设置头部-->
 			<div class = "mother-grid-inner">

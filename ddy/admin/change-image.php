@@ -71,7 +71,7 @@ if (isset($_POST['submit'])) {
 										<div class = "form-group">
 											<label for = "focusedinput" class = "col-sm-2 control-label">新的照片</label>
 											<div class = "col-sm-8">
-												<input type = "file" name = "blogimage" id = "packageimage" required>
+												<input type = "file" name = "blogimage" id = "blogimage" required>
 											</div>
 										</div>
                                     <?php }
@@ -87,7 +87,6 @@ if (isset($_POST['submit'])) {
 					<!--设置侧边栏搜索隐藏的脚本-->
 					<script>
                         var toggle = true;
-
                         $(".sidebar-icon").click(function () {
                             if (toggle) {
                                 $(".page-container").addClass("sidebar-collapsed").removeClass("sidebar-collapsed-back");

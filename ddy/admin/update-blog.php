@@ -36,9 +36,9 @@ if (isset($_POST['submit'])) {
 	</head>
 	<body>
 	<div class = "page-container">
-		<!--1.设置页面左边内容-->
+		<!--1.设置侧边栏-->
         <?php include('includes/sidebarmenu.php'); ?>
-		<!--2.设置页面右边内容-->
+		<!--2.设置页面内容-->
 		<div class = "left-content">
 			<div class = "mother-grid-inner">
 				<!--A1:头部-->

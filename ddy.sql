@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : localhost
- Source Server Type    : MySQL
- Source Server Version : 80022
- Source Host           : localhost
- Source Database       : tms
-
- Target Server Type    : MySQL
- Target Server Version : 80022
- File Encoding         : utf-8
-
- Date: 12/23/2021 10:52:04 AM
-*/
-
 SET NAMES utf8;
 SET FOREIGN_KEY_CHECKS = 0;
 
